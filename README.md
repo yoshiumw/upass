@@ -1,6 +1,6 @@
 TODO: Finish and properly format this README.
 
-An exercise to learn selenium.
+A one-day exercise to learn selenium.
 
 How to use this script:
 1) Download everything off the repo.
